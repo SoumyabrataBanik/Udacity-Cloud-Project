@@ -4,10 +4,16 @@
 
 **Website-Endpoint URL:** [my-047967469769-bucket.s3-website-us-east-1.amazonaws.com/](http://my-047967469769-bucket.s3-website-us-east-1.amazonaws.com/)
 
+## ABOUT THE PROJECT 
+
+Amazon Web Services or AWS is a popular cloud service that in itself provides numerous services. This is a simple project where we host a Static Web Site using AWS. In this small project, we create an S3 Bucket and store our static web site files in it. We then expose this bucket by allowing the static web hosting property provided by AWS for S3 Buckets. After that, we use CloudFront, another popular service provided by AWS, to distribute the website.
+
 
 ## SCREENSHOTS
 
 ### S3 Bucket 
+
+![S3 Bucket](./screenshots/s3-bucket.png)
 
 #### All Files 
 
@@ -24,6 +30,10 @@
 ### CloudFront 
 
 ![CloudFront](./screenshots/cloudfront.png)
+
+#### Detailed Overview 
+
+![CloudFront details](./screenshots/cloudfront-details.png)
 
 ### Website running in the browser 
 
