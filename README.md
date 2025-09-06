@@ -28,3 +28,9 @@
 ### Website running in the browser 
 
 ![Website running in the browser](./screenshots/website-in-browser-final.png)
+
+## CREDITS
+
+The Background Image has been taken from [unsplash.com](https://unsplash.com/photos/brown-wooden-boat-moving-towards-the-mountain-O453M2Liufs).
+
+All the code for the website has been obtained from the **Udacity Platform** with minor changes made from my part.
