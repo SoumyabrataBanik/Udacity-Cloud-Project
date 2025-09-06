@@ -1,7 +1,9 @@
 # UDACITY CLOUD PROJECT: PROJECT RUBRIC
 
-**CloudFront Domain Name URL:** [d1lr00xrn5ryr4.cloudfront.net](https://d1lr00xrn5ryr4.cloudfront.net)
+**CloudFront Domain Name URL:** [d1lr00xrn5ryr4.cloudfront.net](https://d1lr00xrn5ryr4.cloudfront.net)<br/>
+
 **Website-Endpoint URL:** [my-047967469769-bucket.s3-website-us-east-1.amazonaws.com/](http://my-047967469769-bucket.s3-website-us-east-1.amazonaws.com/)
+
 
 ## SCREENSHOTS
 
