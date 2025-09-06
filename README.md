@@ -17,7 +17,7 @@
 
 ![The Bucket permissions](./screenshots/bucket-permissions.png)
 
-#### Static Web-hosting Propery 
+#### Static Web-hosting Property
 
 ![Static Web-hosting Property of the bucket](./screenshots/bucket-static-web-hosting-properties.png)
 
